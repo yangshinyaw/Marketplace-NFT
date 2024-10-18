@@ -1,4 +1,4 @@
-# Don't forget to add node_modules
+# Don't forget to add node_modules (IMPORTANT!!)
 
 # Getting Started with Create React App
 
